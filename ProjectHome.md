@@ -1,0 +1,1 @@
+build up your own operating system and get yourself familiar with computer's every step, including booting, memory management, process control etc. mit's classic course 6.828. with a lot challenge to accomplish!
